@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+websockets
+torch
+torchaudio
+numpy
+scipy
+soundfile
+pydantic
+httpx
+librosa
